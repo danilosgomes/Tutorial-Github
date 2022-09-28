@@ -1,6 +1,6 @@
 ### INTRODUÇÃO
 
-  A princípio, oque é o Github? Setrata de uma plataforma onde você pode armazenar seus códigos(via commit), servindo de repositório. Quando criado e commitado os arquivos, você pode acessar de qualquer lugar, e pode ser acessado por qualquer pessoa. Muito bom para trabalhar em equipe.
+  A princípio, o que é o Github? De modo simplificado, trata-se de uma plataforma onde você pode armazenar seus códigos(via commit), servindo de repositório. Quando criado e commitado os arquivos, você pode acessar de qualquer lugar, e pode ser acessado por qualquer pessoa. Muito bom para trabalhar em equipe.
 
   ##
 
