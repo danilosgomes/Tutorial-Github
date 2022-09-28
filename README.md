@@ -44,6 +44,6 @@
 
   - Abrindo o Git Bach, vamos serguir os primerios 4 passos do "COMO COMMITAR".
 
-  - Segundamente damos um 'git add -m "<nome do commit>
+  - Segundamente damos um 'git add -m "<nome do commit>"'
 
   - Após, utilizamos o comando 'gut push origin main', sem o '-u' pois ja foi criada a comunicação.
